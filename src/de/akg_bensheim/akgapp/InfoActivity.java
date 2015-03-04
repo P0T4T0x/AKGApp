@@ -12,7 +12,7 @@ import android.app.Activity;
 
 public class InfoActivity extends Activity {
 
-    TextView textView;
+    private TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
